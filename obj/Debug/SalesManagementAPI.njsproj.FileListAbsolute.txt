@@ -1,0 +1,2 @@
+E:\GitHub\SalesManagementAPI\obj\Debug\SalesManagementAPI.njsprojAssemblyReference.cache
+E:\GitHub\SalesManagementAPI\bin\Microsoft.NodejsTools.WebRole.dll

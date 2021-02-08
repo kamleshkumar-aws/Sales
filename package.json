@@ -1,0 +1,38 @@
+{
+  "name": "sales-management-api",
+  "version": "0.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "debug": "node server.js"
+  },
+  "description": "SalesManagementAPI",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@types/node": "^12.12.7",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.15.0",
+    "celebrate": "^11.0.0",
+    "cookie-parser": "^1.4.0",
+    "cors": "^2.8.5",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mariadb": "^2.1.2",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta6",
+    "sequelize": "^5.21.2",
+    "sequelize-cli": "^5.5.1",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodeshift": "^4.1.0"
+  },
+  "engines": {
+    "node": "12.18.3",
+    "npm": "6.12.1"
+  }
+}
