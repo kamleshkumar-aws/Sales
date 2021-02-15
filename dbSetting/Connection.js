@@ -32,8 +32,8 @@ const paymentDetails = require("../models/paymentDetails");
 //     idle: 10000
 //   }
 // });
-const sequelize = new Sequelize("UrkBMVl1Pe", "UrkBMVl1Pe", "Vm8KU49alI", {
-  host: "remotemysql.com",
+const sequelize = new Sequelize("vicky", "vicky", "vikcy@2021", {
+  host: "52.207.212.113",
   dialect: "mariadb",
   port: 3306,
   timestamps: true,
