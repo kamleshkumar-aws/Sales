@@ -33,8 +33,8 @@ const paymentDetails = require("../models/paymentDetails");
 //   }
 // });
 const sequelize = new Sequelize("vicky", "vicky", "vikcy@2021", {
-  host: "52.207.212.113",
-  dialect: "mariadb",
+  host: "sales.cluster-cc2x75n1k47d.us-east-1.rds.amazonaws.com",
+  dialect: "mysql",
   port: 3306,
   timestamps: true,
   pool: {
